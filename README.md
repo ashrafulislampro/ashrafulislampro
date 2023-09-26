@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://softdevashraful.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh.</h3>
+<h3 align="center">I am a passionate and dedicated software developer with a strong foundation in computer science and a relentless drive to create innovative solutions. With 1 years of hands-on experience, I have honed my skills in developing robust and scalable software applications. My journey in software development has been characterized by a deep curiosity for emerging technologies and a commitment to continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulislampro&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulislampro" /> </p>
